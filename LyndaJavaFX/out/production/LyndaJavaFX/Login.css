@@ -1,0 +1,26 @@
+.root {-fx-background-color: greenyellow}
+
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #0E1D33;
+}
+
+.login-text {
+    -fx-font-size: 32px;
+    -fx-font-family: "Ariel Black";
+    -fx-text-fill: #115E7F;
+}
+
+.actionTarget {
+    -fx-font-weight: bold;
+    -fx-text-fill: WHITE;
+}
+
+.button {
+    -fx-font-weight: bold;
+    -fx-font-family: "Ariel Narrow";
+    -fx-text-fill: WHITE;
+    -fix-background-color:linear-gradient(#61a2b1, #2A5058);
+}
+
